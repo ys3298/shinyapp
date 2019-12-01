@@ -1,0 +1,12 @@
+name: statemap
+title: statemap
+username:
+account: statesplots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1544094
+bundleId: 2629358
+url: https://statesplots.shinyapps.io/statemap/
+when: 1575172015.36246
+asMultiple: FALSE
+asStatic: FALSE
